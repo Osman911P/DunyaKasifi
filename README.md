@@ -35,12 +35,12 @@ Hepsi Trello panosunda güncellendi.  ==> https://trello.com/b/uhaFgmba/ar-dunya
 
 5. HAFTA:
 
-Uygulama Geliştirme Süreci
+Unity kurulumu sağlandı ve gerekli assetler toplandı.
 
 ----------------------------------------------------------------------------------------
 6. HAFTA:
 
-Uygulama Geliştirme Süreci
+Uygulamayı kodlama süreci.
 
 ----------------------------------------------------------------------------------------
 7. HAFTA:
