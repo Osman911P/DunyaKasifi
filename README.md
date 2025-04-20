@@ -1,3 +1,6 @@
+Arttırılmış Gerçeklik Projesi
+--Dünya Kaşifi--
+----------------------------------------------------------------------------------------
 1. Hafta:
 Trello panosu oluşturuldu ve proje yönetimi için kartlar eklendi.  ==> https://trello.com/b/uhaFgmba/ar-dunya-kasifi
 
