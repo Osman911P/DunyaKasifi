@@ -29,7 +29,7 @@ State Diagram ve Sistem Yapısı gibi bazı temel diyagramlar hazırlandı.
 
 Tüm UML diyagramları (State Diagram, Activity Diagram, Use Case, vb.) tamamlandı.
 
-Hepsi Trello panosunda güncellendi.
+Hepsi Trello panosunda güncellendi.  ==> https://trello.com/b/uhaFgmba/ar-dunya-kasifi
 
 ----------------------------------------------------------------------------------------
 
