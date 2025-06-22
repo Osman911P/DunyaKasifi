@@ -101,6 +101,10 @@ Uygulama içi görseller :
 
 ![resim 2](https://github.com/user-attachments/assets/3ab935a3-ba1d-42f1-8f87-9ea62368d0c3)
 
+---
+Uygulama Tanıtım Videosu : 
+
+https://youtube.com/shorts/T4ujbI28cko?feature=share
 
 📦 APK Dosyası (İndirilebilir Sürüm)
 Uygulamanın Android .apk dosyasını aşağıdaki bağlantıdan indirebilirsiniz:
