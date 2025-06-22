@@ -1,8 +1,46 @@
-# Arttırılmış Gerçeklik Projesi --Dünya Kaşifi--
+# 🌍 Arttırılmış Gerçeklik Projesi – Dünya Kaşifi
 
-Bu proje, artırılmış gerçeklik (AR) tabanlı bir mobil uygulamadır. Uygulama açıldığında kullanıcıyı karşılayan bir ana ekran (menü) bulunur. Kullanıcı "Başlat" butonuna bastığında Unity sahnesi açılır ve cihaz kamerası devreye girer. Kamera, Eyfel Kulesi'ni tanıdığında 3D bir model görüntülenir. Bu modele tıklandığında, kullanıcıya ilgili bilgi ekranı açılarak yapının tanıtımı yapılır. Bu sayede kullanıcılar, gerçek dünyadaki yapıların artırılmış gerçeklik teknolojisiyle dijital bilgilerine ulaşabilir.
+## 📌 Proje Açıklaması
+
+**Dünya Kaşifi**, artırılmış gerçeklik (AR) tabanlı bir mobil uygulamadır. Bu uygulama sayesinde kullanıcılar, gerçek dünyadaki yapıları cihaz kamerasıyla tarayarak onların 3D modellerini görebilir ve detaylı bilgi alabilirler.
+
+Uygulama açıldığında kullanıcıyı bir **ana ekran** karşılar. Kullanıcı “Başlat” butonuna bastığında cihaz kamerası aktif hale gelir. Kamera, **Eyfel Kulesi**’ni tanıdığında bir **3D model** görünür. Kullanıcı bu modele dokunduğunda ekrana **bilgilendirme paneli** gelir.
+
+- 🎯 **Amaç:** Kültürel yapıları artırılmış gerçeklik ile tanıtmak  
+- 👥 **Hedef Kitle:** Öğrenciler, gezginler ve kültürel bilgiye ilgi duyan bireyler  
+- 🛠️ **Kullanılan Teknolojiler:**
+  - Unity
+  - Vuforia Engine (AR SDK)
+  - C#
+  - Android Build Tools
 
 ---
+
+## 🚀 Kurulum Rehberi
+
+1. Unity Hub üzerinden **Unity 2021.x veya 2022.x** sürümü kurulu olmalıdır.
+2. **Vuforia Engine** eklentisi Unity üzerinden projeye dahil edilmelidir.
+3. Unity projesini açmak için GitHub deposunu klonlayın:
+   ```bash
+   git clone https://github.com/Osman911P/DunyaKasifi.git
+4. Unity içinde açıldıktan sonra Scenes klasöründeki MainMenu.unity sahnesi ile başlayabilirsiniz.
+5. Mobil cihazda test etmek için:
+- Android Build Support kurulmalı
+- Cihazda kamera izinleri verilmelidir
+
+▶️ Kullanım Talimatları
+1. Uygulama açıldığında ana menü ekranı gelir.
+2. “Başlat” butonuna tıklanır.
+3. Uygulama, cihaz kamerasını açar.
+4. Eyfel Kulesi görseli cihaza gösterilir.
+5. Ekranda 3D Eyfel Kulesi modeli belirir.
+6. Modele tıklandığında bilgilendirme paneli (canvas UI) ekranda gösterilir
+
+🧠 AR Özellikleri
+1. Görüntü Tanıma: Vuforia kullanılarak Eyfel Kulesi resmi tanınır.
+2. 3D Modelleme: Eyfel Kulesi’nin 3D modeli tanıma sonrasında sahneye yerleştirilir.
+3. Etkin Dokunma: Modele dokunulduğunda Unity UI canvas paneli açılır.
+4. Donanım Gereksinimi: Android kamera donanımı gereklidir.
 
 ## 📅 Haftalık Gelişim Süreci
 
@@ -58,5 +96,15 @@ Bu proje, artırılmış gerçeklik (AR) tabanlı bir mobil uygulamadır. Uygula
 - Bilgi ekranı düzenlendi ve kullanıcıya yapıya dair bilgi gösterimi tamamlandı.
 
 ---
+Uygulama içi görseller : 
+![resim 1](https://github.com/user-attachments/assets/d3dcddd5-a762-41ba-b09f-b11eee857379)
 
-📌 Proje ilerledikçe README dosyası güncellenmeye devam edecektir.
+![resim 2](https://github.com/user-attachments/assets/3ab935a3-ba1d-42f1-8f87-9ea62368d0c3)
+
+
+📦 APK Dosyası (İndirilebilir Sürüm)
+Uygulamanın Android .apk dosyasını aşağıdaki bağlantıdan indirebilirsiniz:
+
+🔗 Dünya Kaşifi - [APK İndir (Google Drive)](https://drive.google.com/file/d/1plmvJl23t1HnFuP2RA3TgHhFKK5rb0PQ/view?usp=sharing)
+
+
