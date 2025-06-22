@@ -106,7 +106,7 @@ Uygulama Tanıtım Videosu :
 
 https://youtube.com/shorts/T4ujbI28cko?feature=share
 
-📦 APK Dosyası (İndirilebilir Sürüm)
+📦 APK Dosyası Android 10 ve üzeri her cihaza kurulabilir .(İndirilebilir Sürüm)
 Uygulamanın Android .apk dosyasını aşağıdaki bağlantıdan indirebilirsiniz:
 
 🔗 Dünya Kaşifi - [APK İndir (Google Drive)](https://drive.google.com/file/d/1plmvJl23t1HnFuP2RA3TgHhFKK5rb0PQ/view?usp=sharing)
